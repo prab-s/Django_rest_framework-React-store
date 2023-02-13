@@ -1,5 +1,5 @@
-# E-commerce web app
-## Django_rest_framework-React-store
+# E-commerce store - web app
+## Django rest framework - React
 (WIP) An online store app - Django REST framework on the backend, utilises JWT authentication, with React on the frontend.
 
 > The main purposes of this project were in two parts
