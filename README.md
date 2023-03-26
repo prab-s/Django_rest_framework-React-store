@@ -9,7 +9,13 @@
 This project is a work-in-progress situation.
 More to follow soon...
 ---
-Update: Here's what the 'Store' page looks like at the moment
+Update 26 March 2023: 
+
+Disclaimer: wherever you see a hard-coded local-ip-address, change it to 'localhost'
+
+Pro-tip: *there are commented out URLs scattered all over the place (but in strategic spots) that'll guide you to some helpful source material that'll help you figure out how to do things not mentioned here (e.g. **how to do a database migration via Django**)*
+
+Here's what the 'Store' page looks like at the moment
 ![image](https://user-images.githubusercontent.com/18206187/227759678-a8371528-8f99-426c-bf27-de7366c9bc86.png)
 
 And here's what the 'Cart' page looks like at the moment
