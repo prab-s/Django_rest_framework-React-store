@@ -19,6 +19,10 @@ body {
     }
 }
 
+input.form-control{
+    width: 40vw;
+}
+
 .navbar-brand .dropdown-item .nav-link, .active {
 /* .nav-link, .active { */
     /* border-bottom: 5px ridge #5bc0eb; */
@@ -27,7 +31,7 @@ body {
     font-weight: bolder;
 }
 
-.btn {
+.btn, .bg-success, .bg-secondary, input.form-control {
     /* .btn:hover { */
     box-shadow: 0px 0px 5px 1px #000000;
 }
