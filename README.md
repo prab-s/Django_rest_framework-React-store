@@ -13,3 +13,4 @@ Update: Here's what the 'Store' page looks like at the moment
 ![image](https://user-images.githubusercontent.com/18206187/227759678-a8371528-8f99-426c-bf27-de7366c9bc86.png)
 
 And here's what the 'Cart' page looks like at the moment
+![Screenshot 2023-03-26 193526](https://user-images.githubusercontent.com/18206187/227759728-7a8a1506-2d3d-4ec7-93d7-e913ab4d6ecf.png)
