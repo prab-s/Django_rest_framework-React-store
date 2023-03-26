@@ -10,4 +10,6 @@ This project is a work-in-progress situation.
 More to follow soon...
 ---
 Update: Here's what the 'Store' page looks like at the moment
-![image](https://user-images.githubusercontent.com/18206187/218513092-0d1d3262-371e-4e37-8d2b-73cd0acd421c.png)
+![image](https://user-images.githubusercontent.com/18206187/227759678-a8371528-8f99-426c-bf27-de7366c9bc86.png)
+
+And here's what the 'Cart' page looks like at the moment
