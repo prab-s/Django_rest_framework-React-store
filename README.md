@@ -8,8 +8,8 @@
 
 Run commands
 ---
-Django> python manage.py runserver 192.168.1.xx:8000
-React> npm run dev -- --port 5000 --host
+- Django > python manage.py runserver 192.168.1.xx:8000
+- React > npm run dev -- --port 5000 --host
 
 This project is a work-in-progress situation.
 More to follow soon...
