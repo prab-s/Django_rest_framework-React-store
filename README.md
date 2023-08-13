@@ -6,6 +6,11 @@
 > 1) Learn, and implement something using Django. In this case a REST API
 > 2) Learn, and implement JWT authentication (OAuth 2.0)
 
+Run commands
+---
+Django> python manage.py runserver 192.168.1.xx:8000
+React> npm run dev -- --port 5000 --host
+
 This project is a work-in-progress situation.
 More to follow soon...
 ---
